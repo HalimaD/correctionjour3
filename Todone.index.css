@@ -1,0 +1,17 @@
+.navbar-brand {
+	font-size: 20px;
+}
+
+.featurette-divider {
+	font-size: 20px;
+}
+
+.sizing-carousel
+{
+ }
+
+
+<section id="latest articles" class="demo">
+  <h1>Scroll Down Button #1</h1>
+  <a href="#section02"><span></span>Scroll</a>
+</section>
